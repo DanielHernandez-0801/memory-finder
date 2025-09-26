@@ -1,0 +1,35 @@
+# Core
+streamlit==1.36.0
+pillow>=10.3.0
+numpy>=1.26.4
+opencv-python>=4.9.0.80
+python-dateutil>=2.9.0
+tqdm>=4.66.4
+pydantic>=2.7.0
+rich>=13.7.1
+openai>=1.40.0
+python-dotenv>=1.0.1
+
+# EXIF / HEIC
+piexif>=1.1.3
+pillow-heif>=0.16.0
+
+# Text & Vision
+torch>=2.2.0
+torchvision>=0.17.0
+transformers>=4.41.0
+open_clip_torch>=2.24.0
+
+# Captions
+# BLIP image captioning model
+accelerate>=0.33.0
+
+# Faces
+insightface>=0.7.3
+onnxruntime>=1.17.3
+
+# Vector DB
+chromadb>=0.5.5
+
+# DB
+sqlalchemy>=2.0.30
